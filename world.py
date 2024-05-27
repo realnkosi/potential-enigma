@@ -3,3 +3,4 @@ def myfunc(name):
         print(i)
 
 myfunc("This is Nkosi's Git commit.") 
+myfunc("This is realnkosi's Got commit")
